@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  CalcTip
 //
-//  Created by Tran Ngoc Hai Dang on 10/30/15.
+//  Created by Le Minh Tri on 10/30/15.
 //  Copyright © 2015 N&P Inspiration. All rights reserved.
 //
 
