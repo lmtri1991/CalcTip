@@ -1,10 +1,3 @@
-//
-//  SettingsViewController.swift
-//  JTip
-//
-//  Created by Jamie Tsao on 12/22/14.
-//  Copyright (c) 2014 Jamie Tsao. All rights reserved.
-//
 
 import UIKit
 
