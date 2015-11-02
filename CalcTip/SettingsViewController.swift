@@ -1,3 +1,10 @@
+//
+//  AppDelegate.swift
+//  CalcTip
+//
+//  Created by Le Minh Tri on 10/30/15.
+//  Copyright © 2015 N&P Inspiration. All rights reserved.
+//
 
 import UIKit
 
